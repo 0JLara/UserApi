@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import type { ChangeEvent } from "react";
 import { useDelay } from "./CustomHooks/Debounce";
 //Declaramos la interfaz para que el fetch() sepa el tipo de dato que va a recibir
